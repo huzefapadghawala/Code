@@ -1,0 +1,13 @@
+{
+  "name": "enrollment-app-new",
+  "version": "0.0.0",
+  "description": "EnrollmentAppNew",
+  "main": "app.js",
+  "author": {
+    "name": "HuzefaPadghawala",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.3.0"
+  }
+}

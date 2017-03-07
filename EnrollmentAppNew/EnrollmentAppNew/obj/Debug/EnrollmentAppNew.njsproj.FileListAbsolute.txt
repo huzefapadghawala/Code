@@ -1,0 +1,2 @@
+C:\UWMProject\EnrollmentAppNew\EnrollmentAppNew\obj\Debug\EnrollmentAppNew.njsprojResolveAssemblyReference.cache
+C:\UWMProject\EnrollmentAppNew\EnrollmentAppNew\bin\Microsoft.NodejsTools.WebRole.dll
